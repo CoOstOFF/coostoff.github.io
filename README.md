@@ -1,2 +1,2 @@
 # kustau.github.io
-Kanstantsin Kustau | personal page
+Kanstantsin Kustau| Minsk, Belarus | Android Developer | personal page
