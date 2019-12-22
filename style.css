@@ -1,5 +1,5 @@
 body {
-	width: 100%;
+	text-align:center;
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	color: #333;
@@ -12,8 +12,8 @@ span{
 }
 
 table {
-	margin: 0 auto;
-	float: right;
+    	margin-left:auto; 
+    	margin-right:auto
 }
 
 table tr td:first-child {
