@@ -11,7 +11,7 @@ span{
 	transition: 0.3s;
 }
 
-table {
+table.center {
     	margin-left:auto; 
     	margin-right:auto
 }
