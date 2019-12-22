@@ -1,5 +1,4 @@
 body {
-	text-align:center;
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	color: #333;
@@ -11,9 +10,15 @@ span{
 	transition: 0.3s;
 }
 
-table.center {
-    	margin-left:auto; 
-    	margin-right:auto
+img{
+	width: 70px;
+	border-radius: 35px;
+	margin: 10px 15px 0 0;
+}
+
+table {
+	margin: 0;
+	float: right;
 }
 
 table tr td:first-child {
@@ -83,6 +88,10 @@ a:hover {
 	.intro span {
 		font-size: 18px;
 		line-height: 28px;
+	}
+	
+	img{
+		display: none;
 	}
 	
 	table {
