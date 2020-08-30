@@ -1,2 +1,2 @@
 # coostoff.github.io
-Kanstantsin Kustau| Minsk, Belarus | Android Developer | personal page
+Konstantine Kustov| Android Software Engineer | personal page
