@@ -1,2 +1,2 @@
-# CV
-Konstantine Kustov | Android Software Engineer | personal page
+# CV-Kustov
+Konstantin Kustov | Android Software Engineer | personal page
