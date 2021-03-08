@@ -1,2 +1,2 @@
-# coostoff.github.io
-Konstantine Kustov | Android Software Engineer | personal page
+# konstantinkustov.github.io/CV
+Konstantin Kustov | Android Software Engineer | personal page
